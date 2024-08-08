@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Ygor+Machado;I'm+19+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Ygor+Machado+;Tenho+20+anos;Moro+na+cidade+de+Franca-SP+;Faço+faculdade+na+Fatec-Franca(ADS))](https://git.io/typing-svg)
 
 
 <p align="center">
